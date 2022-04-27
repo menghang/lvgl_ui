@@ -7,9 +7,10 @@
     
     #include "lv_font.h"
     
-    LV_FONT_DECLARE(lv_font_MONACO_40)
+    LV_FONT_DECLARE(lv_font_FiraCode_Retina_14)
 LV_FONT_DECLARE(lv_font_simsun_12)
-LV_FONT_DECLARE(lv_font_MONACO_12)
+LV_FONT_DECLARE(lv_font_FiraCode_Retina_18)
+LV_FONT_DECLARE(lv_font_FiraCode_Retina_32)
 
     
     #ifdef __cplusplus
